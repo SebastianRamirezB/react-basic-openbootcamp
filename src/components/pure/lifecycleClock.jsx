@@ -30,9 +30,6 @@ const LifecycleClock = () => {
      };
    }, []);
 
-
-
-
   return (
     <div>
       <h2>Hora Actual: {state.fecha.toLocaleDateString()}</h2>

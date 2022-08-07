@@ -11,8 +11,4 @@ export class Contact {
         this.email = email;
         this.connected = connected;
     }
-
-    
-
-
 }
